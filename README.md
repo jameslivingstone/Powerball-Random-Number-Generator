@@ -12,4 +12,4 @@ Python
 Powerball
 
 # See It Live
-[Powerball Random Number Generator](https://jameslivingstone.github.io/Powerball-Random-Number-Generator/)
+[Powerball Random Number Generator](https://replit.com/@jameslivingstone/PowerBall?v=1)
