@@ -9,6 +9,4 @@ Python
 
 
 # Acknowledgments
-Replit
-
 Powerball
